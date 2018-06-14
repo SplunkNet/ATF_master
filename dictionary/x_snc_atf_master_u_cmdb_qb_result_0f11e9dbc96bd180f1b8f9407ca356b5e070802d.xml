@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="cmdb_qb_result_base" label="Query Results" max_length="40" name="x_snc_atf_master_u_cmdb_qb_result_0f11e9dbc96bd180f1b8f9407ca356b5e070802d" type="collection"/>
+</database>
