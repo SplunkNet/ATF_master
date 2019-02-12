@@ -8,31 +8,31 @@
         <create_access>true</create_access>
         <create_access_controls>false</create_access_controls>
         <delete_access>false</delete_access>
-        <extension_model/>
-        <is_extendable>false</is_extendable>
-        <label>Query Results</label>
+        <extension_model>partition</extension_model>
+        <is_extendable>true</is_extendable>
+        <label>Query Builder Results</label>
         <live_feed_enabled>false</live_feed_enabled>
-        <name>x_snc_atf_master_u_cmdb_qb_result_0f11e9dbc96bd180f1b8f9407ca356b5e070802d</name>
+        <name>cmdb_qb_result_base</name>
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Query Builder Results" name="cmdb_qb_result_base">43de79f7db22930050013a433a961966</super_class>
-        <sys_class_code>!!</sys_class_code>
+        <super_class/>
+        <sys_class_code>/</sys_class_code>
         <sys_class_name>sys_db_object</sys_class_name>
-        <sys_class_path>/!!</sys_class_path>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-06-13 03:15:51</sys_created_on>
+        <sys_class_path>/</sys_class_path>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-06-14 05:53:26</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>34311ce7db62930053736f048a961901</sys_id>
+        <sys_id>43de79f7db22930050013a433a961966</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Atf Master U CMDB Qb Result 0f11e9dbc96bd180f1b8f9407ca356b5e070802d</sys_name>
+        <sys_name>CMDB Qb Result Base</sys_name>
         <sys_package display_value="ATF_master" source="x_snc_atf_master">ed703ab6dbea1300fdd7d0364a961900</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="ATF_master">ed703ab6dbea1300fdd7d0364a961900</sys_scope>
-        <sys_update_name>sys_db_object_34311ce7db62930053736f048a961901</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-06-13 03:15:51</sys_updated_on>
+        <sys_update_name>sys_db_object_43de79f7db22930050013a433a961966</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-06-14 05:53:26</sys_updated_on>
         <update_access>true</update_access>
         <user_role/>
         <ws_access>true</ws_access>
